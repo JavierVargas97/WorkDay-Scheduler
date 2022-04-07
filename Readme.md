@@ -1,7 +1,7 @@
-#Welcome  to this calendar webpage, sometimes the people forgets some little daily tasks 
+# Welcome  to this calendar webpage, sometimes the people forgets some little daily tasks 
 and thats why this web going to help you to keep them present.
 
-##Aceptance Criteria
+## Aceptance Criteria
 GIVEN I am using a daily planner to create a schedule
 
 WHEN I open the planner

@@ -28,5 +28,5 @@ WHEN I refresh the page
 
 THEN the saved events persist
 
-![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/99717300/162121159-e86eb0c1-f1b9-4425-9ddd-2293a25e9f9d.gif)
+![05-third-party-apis-homework-demo](./Img/../05-third-party-apis-homework-demo.gif)
 
